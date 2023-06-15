@@ -22,6 +22,9 @@
 
 -	Skewed distribution in our data graph and the presence of outliers that can introduce bias, it is advisable to utilize the median as a summary measure.
 
+-	![image](https://github.com/JasmineBamba/Excel-Challenge-1/assets/135666038/d2f69d53-ad31-4f37-aa53-8a574d04823d)
+
+
 ## Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
 -	There is a notable level of variability in the number of backers for both successful and unsuccessful crowdfunding campaigns.-
