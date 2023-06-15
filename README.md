@@ -9,20 +9,20 @@
 
 ## What are some limitations of this dataset?
 
-(-)	Inconsistent comparison: Currency being recorded as of different counties can create discrepancies when comparing the funding amount.
-•	Upon examining the dataset, it appears that the collection of campaign duration might not been consistently recorded for all campaigns as some campaigns only ran for couple of days. As a result, we can expect variations in how the lifecycle of campaigns are represented in the data, possibly overlooking certain stages or time periods of the campaigns.
+-	Inconsistent comparison: Currency being recorded as of different counties can create discrepancies when comparing the funding amount.
+-	Upon examining the dataset, it appears that the collection of campaign duration might not been consistently recorded for all campaigns as some campaigns only ran for couple of days. As a result, we can expect variations in how the lifecycle of campaigns are represented in the data, possibly overlooking certain stages or time periods of the campaigns.
 
 
 ## What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
-•	Analyzing the relationship between campaign duration and success rate on a graph/ table. Might assist us with determining whether shorter or longer campaigns tend to be more effective, pinpointing the saturation point where extending the campaign might diminish the benefits or having a shorter campaign might lead to missed opportunities.
+-	Analyzing the relationship between campaign duration and success rate on a graph/ table. Might assist us with determining whether shorter or longer campaigns tend to be more effective, pinpointing the saturation point where extending the campaign might diminish the benefits or having a shorter campaign might lead to missed opportunities.
 
 
 ## Use your data to determine whether the mean or the median better summarizes the data.
 
-•	Skewed distribution in our data graph and the presence of outliers that can introduce bias, it is advisable to utilize the median as a summary measure.
+-	Skewed distribution in our data graph and the presence of outliers that can introduce bias, it is advisable to utilize the median as a summary measure.
 
 ## Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
-•	There is a notable level of variability in the number of backers for both successful and unsuccessful crowdfunding campaigns.
-•	 Yes, it makes sense as we can notice that the average number of backers in successful campaigns greatly exceeds the average number of backers in unsuccessful campaigns, indicating a positive correlation between the number of backers and campaign success. Higher the number of backers, more are the chances of the success rate.
+-	There is a notable level of variability in the number of backers for both successful and unsuccessful crowdfunding campaigns.-
+-	Yes, it makes sense as we can notice that the average number of backers in successful campaigns greatly exceeds the average number of backers in unsuccessful campaigns, indicating a positive correlation between the number of backers and campaign success. Higher the number of backers, more are the chances of the success rate.
