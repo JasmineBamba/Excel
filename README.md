@@ -2,14 +2,14 @@
 
 ## Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
 
-•	The success rate of crowdfunding stands at 73%, with theater emerging as the most popular category across various countries.
-•	Backers tend to feel more confident in a project's success when the funding goal appears achievable. The dataset indicates that there is a higher percentage of successful campaigns when the goal falls within the range of 1,000 to 9,999 compared to goals higher than this threshold.
-•	Least run campaigns are for the category music world and audio but has consistently turned to be successful.
+- The success rate of crowdfunding stands at 73%, with theater emerging as the most popular category across various countries.
+- Backers tend to feel more confident in a project's success when the funding goal appears achievable. The dataset indicates that there is a higher percentage of successful campaigns when the goal falls within the range of 1,000 to 9,999 compared to goals higher than this threshold.
+- Least run campaigns are for the category music world and audio but has consistently turned to be successful.
 
 
 ## What are some limitations of this dataset?
 
-•	Inconsistent comparison: Currency being recorded as of different counties can create discrepancies when comparing the funding amount.
+(-)	Inconsistent comparison: Currency being recorded as of different counties can create discrepancies when comparing the funding amount.
 •	Upon examining the dataset, it appears that the collection of campaign duration might not been consistently recorded for all campaigns as some campaigns only ran for couple of days. As a result, we can expect variations in how the lifecycle of campaigns are represented in the data, possibly overlooking certain stages or time periods of the campaigns.
 
 
