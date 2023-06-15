@@ -22,7 +22,8 @@
 
 -	Skewed distribution in our data graph and the presence of outliers that can introduce bias, it is advisable to utilize the median as a summary measure.
 
--	![image](https://github.com/JasmineBamba/Excel-Challenge-1/assets/135666038/d2f69d53-ad31-4f37-aa53-8a574d04823d)
+![image](https://github.com/JasmineBamba/Excel-Challenge-1/assets/135666038/d2f69d53-ad31-4f37-aa53-8a574d04823d)
+![image](https://github.com/JasmineBamba/Excel-Challenge-1/assets/135666038/7e31b8e9-2c09-43f0-af5e-e2bddc243fd8)
 
 
 ## Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
